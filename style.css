@@ -1,0 +1,10 @@
+
+.time {
+  font-size: 52px;
+}
+button {
+  font-size: 48px;
+  padding: 10px 40px 10px 40px;
+  margin: 0px 30px 0px 30px;
+  border-radius: 10%;
+}
